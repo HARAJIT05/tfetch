@@ -1,6 +1,6 @@
 # tfetch
 
-![System Information](path/to/your/image.png)
+![System Information](https://te.legra.ph/file/4132b2d3e64a4ba7db5f9.jpg)
 
 This script provides a detailed overview of your system information, including OS, kernel, uptime, and more.
 
